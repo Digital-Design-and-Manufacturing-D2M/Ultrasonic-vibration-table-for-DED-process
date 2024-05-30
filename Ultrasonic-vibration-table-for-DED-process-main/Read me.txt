@@ -1,3 +1,5 @@
+You need to download whole clamped_fixec_top_plate_asm folder,
+and then open The correct file for the whole assembly
+fixed_aluminium_skeleton_asm.SLDASM
 
-The correct file for the whole assemblu is called
-fixed_aluminium_skeleton_asm.sldasm
+CAD modeling was done with Solidworks 2023 version.
